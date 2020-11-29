@@ -25,9 +25,9 @@
 
 ## 1. Installation
 
-  1. Download [repository](https://github.com/kheller18/workout-tracker)
+  1. Download [repository](https://github.com/astout19/fitness.git)
 
-	Git clone https://github.com/kheller18/workout-tracker
+	Git clone https://github.com/astout19/fitness.git
   2. Install dependencies
 
 	npm install
